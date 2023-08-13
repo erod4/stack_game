@@ -1,6 +1,4 @@
-// Enrique Rodriguez
-// Chapter 19
-// 04.11.23
+
 #include "game.h"
 #include <iostream>
 #include <cctype>
