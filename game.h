@@ -1,6 +1,4 @@
-// Enrique Rodriguez
-// Chapter 19
-// 04.11.23
+
 #ifndef GAME_H
 #define GAME_H
 
